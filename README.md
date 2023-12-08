@@ -7,7 +7,6 @@
 
 # ZagaNerd Colors!
 <details>
-<summary><b>Men</b></summary>
-lol test
-men
+<summary><b>test</b></summary>
+test
 </details>
