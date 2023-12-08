@@ -4,5 +4,6 @@
 * ██╔══╝░░
 * ███████╗
 * ╚══════╝
- ZagaNerd Colors!
+
+# ZagaNerd Colors!
 
