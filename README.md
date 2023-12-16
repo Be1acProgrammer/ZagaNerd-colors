@@ -11,7 +11,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <details>
 <summary><b>css copy & paste</b></summary>
-```
+```bash
 #D76565 = red
 #D7A665 = orange
 #D7D565 = yellow
