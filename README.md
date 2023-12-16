@@ -11,6 +11,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <details>
 <summary><b>css copy & paste</b></summary>
+
 ```bash
 #D76565 = red
 #D7A665 = orange
@@ -23,4 +24,5 @@
 #1A1A23 = black
 #43435B = grey
 ```
+
 </details>
